@@ -1,0 +1,6 @@
+-sname test_api
+
+-setcookie test_api_cookie
+
++K true
++A30

@@ -1,7 +1,9 @@
-# test_api
-basic api using cowboy and rebar3
+test_api
+=====
 
+An OTP application
 
-cd test_api
-chmod +x rebar3
-./rebar3 shell/compile/release
+Build
+-----
+
+    $ rebar3 compile
